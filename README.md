@@ -1,5 +1,7 @@
 # Hello World 🙂
----
+
+## About me
+  Lorem ipsum dolor sit amet. 
 <!--
 **Cacophobia/Cacophobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
