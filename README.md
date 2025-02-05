@@ -1,24 +1,27 @@
 # Hello World 🙂
 Fascinated by the intricate complexity of our world, my aim is to unravel the bits and bytes of both the digital and material realms, as well as to share the little I know with whoever is willing to pursue the same goal. I'm currently studying Chemistry at the [Federal Institute of Education, Science and Technology of Rio de Janeiro](https://portal.ifrj.edu.br/index.php) and Software Engineering at [42 Rio](https://42.rio/).
 
-                  ##
-                 ####
-                ######
-               ########
-              ##########
-             ############
-            ##############
-           ################
-          ##################
-         ####################
-        ######################
-       #########      #########
-      ##########      ##########
-     ###########      ###########
-    ##########          ##########
-   #######                  #######
-  ####                          ####
- ###                              ###
+```
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:
+             `/:-:++oooo+:
+            `/++++/+++++++:
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `
+```
 
 <!--
 **Cacophobia/Cacophobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
